@@ -1,4 +1,5 @@
 # Real-Time Face Recognition via Metric Learning 📸🧠
+<img width="1000" height="870" alt="image" src="https://github.com/user-attachments/assets/a2929f6d-d06f-4b27-8f6f-514ba45beb81" />
 
 An end-to-end, custom-built face recognition system powered by **PyTorch**, **PyTorch Lightning**, and **OpenCV**. This project demonstrates the implementation of a Convolutional Neural Network (CNN) from scratch to solve a Metric Learning problem using **Triplet Margin Loss**, allowing the system to verify a specific user's identity in real-time via a webcam.
 

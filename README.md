@@ -109,4 +109,3 @@ During development, several deep learning challenges were addressed:
 
 ---
 *Author: Nikita Mefodovskiy*
-```
